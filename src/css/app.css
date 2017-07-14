@@ -1,0 +1,21 @@
+.tabs .tab a.active{
+    color: #00796b;
+}
+
+.tabs .tab a {
+    color: #4db6ac;
+}
+
+.tabs .tab a:hover, .tabs .tab a.active {
+    color: #00796b;
+}
+
+.tabs .indicator {
+    background: #00796b;
+}
+
+.tabs.tabs-fixed-width {
+    overflow: hidden;
+}
+
+
