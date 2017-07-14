@@ -1,20 +1,21 @@
-#ToDo List React
+<h1>ToDo List React</h1>
 
-##Instalação
+<h2>Instalação</h2>
 
-`git clone https://github.com/wilterson/ToDoList-ReactJS.git`
-`npm install`
-`webpack-dev-server`
+`git clone https://github.com/wilterson/ToDoList-ReactJS.git` <br/>
+`npm install` <br/>
+`webpack-dev-server` <br/>
 
-##Descrição
+<h2>Descrição</h2
 
 App de tarefas a fazer (ToDo List) criado com reactJS.
 
 Tecnologias utilizadas
-..* ReactJS
-..* WebPack
-..* WebComponents
-
+<ul>
+<li>ReactJS</li>
+<li>WebPack</li>
+<li>WebComponents</li>
+</ul>
 
 
 
